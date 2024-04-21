@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "欢迎来到不愧是我金大爷的技术天地"
+date:       2024-04-21
+author:     "King"
+header-style: text
+catalog:     true
+tags:
+    - Web
+    - JavaScript
+---
+
+
 # 欢迎来到“不愧是我金大爷”的技术天地
 
 ## 关于我
